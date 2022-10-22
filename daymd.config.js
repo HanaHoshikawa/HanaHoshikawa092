@@ -28,8 +28,7 @@ const configs = {
   // 大文字,限heroMode：1|2
   heroText: "心灵的些许输出",
   // 大文字下的说明文字,限heroMode：1
-  heroContent:
-    "by HanaHoshikawa",
+  heroContent: "by HanaHoshikawa",
   // 标签图标
   favicon:
     "https://jetzihan-img.oss-cn-beijing.aliyuncs.com/blog/daymd_logo1.svg",
@@ -51,7 +50,7 @@ const configs = {
   // Hero 按钮上的文字,限heroMode：1
   heroButton: "Welcome",
   // Hero 按钮跳转的 Link 链接,限heroMode：1
-  heroButtonLink: "/posts/change-me",
+  heroButtonLink: "https://hanahoshikawa092.netlify.app/zh/posts",
   // 主页设置，限heroMode：3
   theme2Setting: {
     // 右边栏作者头像
@@ -280,7 +279,6 @@ const configs = {
       icon: "https://jetzihan-img.oss-cn-beijing.aliyuncs.com/blog/bzhan.svg",
       to: "https://space.bilibili.com/287749826?spm_id_from=333.1007.0.0",
     },
-   
   ],
   // 是否启用回到顶部按钮:1是，0否
   ifBackTop: 1,
